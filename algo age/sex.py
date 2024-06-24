@@ -5,4 +5,4 @@ if (sex== 'h' and  age >=20) or (sex=='f' and age >=18 and age<= 35):
     print('habitant est imposable ')
      
 else:
-    print("l'habitant nest pasimposable")
+    print(" l'habitant nest pasimposable ")
