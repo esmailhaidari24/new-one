@@ -1,0 +1,1 @@
+int(input("veuillez saisir le nouveau prix "))
